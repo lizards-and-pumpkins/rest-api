@@ -25,7 +25,7 @@
     "psr-4": { "LizardsAndPumpkins\\RestApi\\": "src/" }
   },
   "scripts": {
-    "test": "vendor/bin/phpunit -c tests/Unit/phpunit.xml.dist",
+    "test": "vendor/bin/phpunit -c tests/Unit/phpunit.xml.dist"
   },
   "minimum-stability": "dev",
   "prefer-stable": true
